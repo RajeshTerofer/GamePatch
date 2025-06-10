@@ -1,4 +1,4 @@
 $NUM_ENTRIES = 1
 $BUILD_ID = GamePatchV1
 
-pakchunk1-Windows.pak	1222  ver01	1	/Windows/pakchunk1-Windows.pak
+pakchunk1-Windows.pak	 1222  ver01  1 	Windows/pakchunk1-Windows.pak
